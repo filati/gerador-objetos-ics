@@ -216,7 +216,7 @@ class #objeto#Collection extends DefaultCollectionAbstract implements DefaultCol
 
     /**
      * @param #objeto#Entity \$#varObjeto#Entidade
-     * @return \$this
+     * @return #objeto#Collection
      */
     public function add(\$#varObjeto#Entidade)
     {
